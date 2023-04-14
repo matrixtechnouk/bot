@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 34" width="152" height="34">
+	<title>logo-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #435ebe } 
+		.t1 { font-size: 43px;fill: #1036f4;font-weight: 900;font-family: "FoglihtenBlackPcs", "FoglihtenBlackPcs" } 
+	</style>
+	<path id="Layer" class="s0" d="m0 27.5c0 4.4 6.2 5.5 13.5 5.5 7.3 0 13.5-1.1 13.5-5.5 0-4.4-6.2-5.5-13.5-5.5-7.3 0-13.5 1.1-13.5 5.5z"/>
+	<text id="ODMC" style="transform: matrix(1,0,0,1,0,0)" >
+		<tspan x="0" y="19.5" class="t1">O</tspan><tspan  y="19.5" class="t1">D</tspan><tspan  y="19.5" class="t1">M</tspan><tspan  y="19.5" class="t1">C
+</tspan>
+	</text>
+</svg>
