@@ -4,22 +4,13 @@
 
 <img src="./public/image/readme/dashboard.png" width="500" alt="Img Dashboard" >
 
-Simple WhatsApp Gateway, Built Using Baileys, Express, Sequelize + [Mazer](https://github.com/zuramai/mazer)
-
+Simple WhatsApp bot, 
 </div>
 
 <p align="center">
-<a href="https://github.com/fawwaz37/whatsapp-gateway/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/fawwaz37/whatsapp-gateway" alt="Stars" /></a>
-<a href="https://github.com/fawwaz37/whatsapp-gateway/network/members" target="_blank"><img src="https://img.shields.io/github/forks/fawwaz37/whatsapp-gateway" alt="Forks" /></a>
+
 </p>
 
-# Note
-
-This is just a **simple version**, if you want **more versions** visit https://wasup.masterforexid.com/
-
-If you want to **request a feature**, contact my number wa.me/6287715579966
-
-Because there are no other features added to this free repo
 
 # Installation
 
@@ -90,6 +81,4 @@ Then Browse http://localhost:8080 . You will see the Dashboard.
 
 <img src="./public/image/readme/dashboard.png" width="500" alt="Img Dashboard" >
 
-## API Docs
 
-You Can See All Documentation Here <a target="_blank" href="https://documenter.getpostman.com/view/16528402/VVXC3EjU">POSTMAN</a>
